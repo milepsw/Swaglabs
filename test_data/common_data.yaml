@@ -1,0 +1,5 @@
+website:
+  url: "https://www.saucedemo.com/"
+
+browser:
+  gc: "google chrome"
